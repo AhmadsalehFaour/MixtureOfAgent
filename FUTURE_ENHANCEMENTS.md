@@ -1,30 +1,29 @@
+# 💡 Future Suggestions for the MoA Project
 
-# 💡 اقتراحات مستقبلية لمشروع MoA
+## 🧠 AI Integrations & Techniques
+- [ ] Support **LangChain** to improve context management and workflow.
+- [ ] Add **Retrieval-Augmented Generation (RAG)** and connect questions to external sources.
 
-## 🧠 تكاملات وتقنيات الذكاء الاصطناعي
-- [ ] دعم LangChain لتحسين إدارة السياق وسير العمل.
-- [ ] دعم استرجاع المعرفة (RAG) وربط الأسئلة بمصادر خارجية.
+## 🌍 Multilingual Support
+- [ ] Use automatic translation models.
+- [ ] Provide a multilingual UI using **Streamlit Components**.
 
-## 🌍 دعم التعدد اللغوي
-- [ ] استخدام نماذج ترجمة تلقائية.
-- [ ] واجهة متعددة اللغات باستخدام Streamlit Components.
+## 📤 Data Export
+- [ ] Allow exporting each session’s results as **CSV / JSON**.
+- [ ] Add a button to download **aggregated responses** and **proposals**.
 
-## 📤 تصدير البيانات
-- [ ] إمكانية تصدير نتائج كل جلسة على هيئة CSV / JSON.
-- [ ] زر تنزيل الردود الإجمالية والمقترحات.
+## 🧮 Performance Improvements
+- [ ] Support **GPTQ** or **GGUF** models to reduce memory footprint.
+- [ ] Implement efficient **memory management** during model loading.
 
-## 🧮 تحسين الأداء
-- [ ] دعم نماذج GPTQ أو GGUF لتقليل حجم النماذج في الذاكرة.
-- [ ] إدارة فعّالة للذاكرة أثناء التحميل.
+## ☁️ Cloud Deployment
+- [ ] Integrate with **Streamlit Cloud**.
+- [ ] Support **HuggingFace Spaces** for open-source deployment.
 
-## ☁️ النشر السحابي
-- [ ] التكامل مع Streamlit Cloud.
-- [ ] دعم HuggingFace Spaces كنشر مفتوح المصدر.
-
-## 🗃️ ذاكرة التخزين المؤقت
-- [ ] استخدام `joblib` أو `diskcache` لحفظ الردود السابقة.
-- [ ] زر إعادة استخدام الإجابة السابقة لنفس السؤال.
+## 🗃️ Caching
+- [ ] Use `joblib` or `diskcache` to store previous responses.
+- [ ] Add a button to **reuse the previous answer** for the same question.
 
 ---
 
-> آخر تحديث: تم إنشاؤه تلقائيًا في إطار إعداد المشروع الاحترافي.
+> Last updated: Automatically generated as part of the professional project setup.
