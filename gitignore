@@ -1,0 +1,13 @@
+# Make sure .gitignore ignores secrets/logs
+@"
+.env
+logs/
+__pycache__/
+*.log
+"@ | Out-File -Encoding utf8 -FilePath ".gitignore" -Append
+
+# Stop tracking .env (keep your local file)
+git rm --cached .env
+
+git add .gitignore
+git commit -m "Stop tracking .env and add .gitignore"
