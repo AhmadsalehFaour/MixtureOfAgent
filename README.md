@@ -73,13 +73,6 @@ docker-compose up --build
 - 🛰️ **Remote Mode** → Cloud models (Falcon, Flan-T5).  
 - 💻 **Local Mode** → Local Ollama models (llama3, qwen, deepseek).  
 
----
-
-## 📌 Demo Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Streamlit+UI+Demo" alt="Demo Screenshot" />
-</p>
 
 ---
 
