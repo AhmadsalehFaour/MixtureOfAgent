@@ -55,7 +55,7 @@ Users can enter any question, receive two answers from different models, and the
 
 ### 1️⃣ Run locally
 ```bash
-git clone https://github.com/username/moa.git
+git clone https://github.com/AhmadsalehFaour/moa.git
 cd moa
 pip install -r requirements.txt
 streamlit run main.py
