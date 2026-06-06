@@ -8,6 +8,7 @@
 </p>
 
 ---
+<img width="2816" height="1536" alt="Gemini_Generated_Image_1tnwh51tnwh51tnw" src="https://github.com/user-attachments/assets/13c9faa4-8853-4854-b9fd-e25e72769217" />
 
 ## 🎯 Project Idea
 
